@@ -2,6 +2,7 @@ body {
   font-family: "Poppins", sans-serif;
   font-weight: 300;
   font-style: normal;
+  display: flex;
 }
 
 @media (min-width: 800px) {
